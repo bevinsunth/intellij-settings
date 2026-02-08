@@ -7,10 +7,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="template" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tps" approved="true" type="XML" />
-      <removed_mapping ext="tps" approved="true" type="XML" />
       <removed_mapping ext="usf" approved="true" type="C/C++" />
-      <removed_mapping ext="usf" approved="true" type="C/C++" />
-      <removed_mapping ext="ush" approved="true" type="C/C++ Header" />
       <removed_mapping ext="ush" approved="true" type="C/C++ Header" />
     </extensionMap>
   </component>
