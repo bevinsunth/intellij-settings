@@ -1,0 +1,10 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="integration-bastion" id="8759a7a3-8bfa-4b42-86b6-dda9dc2af5c9" keyPath="$USER_HOME$/.ssh/bastion_key.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" useOpenSSHConfig="true" />
+      <sshConfig host="bsdev-bastion" id="052fb2e0-4a10-470c-9759-11b77f36e9bd" keyPath="$USER_HOME$/.ssh/bastion_key.pem" port="22" customName="ec2-user@bsdev-bastion:22" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
+        <option name="customName" value="ec2-user@bsdev-bastion:22" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>

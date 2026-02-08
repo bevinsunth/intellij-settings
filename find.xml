@@ -1,0 +1,23 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*Development.json</mask>
+    <mask>*.designer.cs</mask>
+    <mask>*.cs</mask>
+    <mask>*.ts*</mask>
+    <mask>*.tf</mask>
+    <mask>*md</mask>
+    <mask>*.ts</mask>
+    <mask>.md</mask>
+    <mask>All file types````</mask>
+    <mask>*cs</mask>
+    <mask>*.tsx</mask>
+    <mask>*tf</mask>
+    <mask>*.json</mask>
+  </component>
+</application>
