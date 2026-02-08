@@ -1,0 +1,27 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Projects/Duende.AccessTokenManagement" value="true" />
+        <entry key="$USER_HOME$/Projects/Duende.AccessTokenManagement/.idea/.idea.Duende.AccessTokenManagement" value="true" />
+        <entry key="$USER_HOME$/Projects/bevthedev-scripts" value="true" />
+        <entry key="$USER_HOME$/Projects/bevthedev-scripts-git" value="true" />
+        <entry key="$USER_HOME$/Projects/bobs-used-bookstore-sample" value="true" />
+        <entry key="$USER_HOME$/Projects/bobs-used-bookstore-sample/.idea/.idea.BobsBookstore" value="true" />
+        <entry key="$USER_HOME$/Projects/bodd-platform" value="true" />
+        <entry key="$USER_HOME$/Projects/bodd-platform/.idea/.idea.BoddPlatform" value="true" />
+        <entry key="$USER_HOME$/Projects/bodd-platform/src/ConsumerPortal/ConsumerPortal.Api" value="true" />
+        <entry key="$USER_HOME$/Projects/bodd-platform/src/ConsumerPortal/ConsumerPortal.Api/.idea/.idea.ConsumerPortal.Api.dir" value="true" />
+        <entry key="$USER_HOME$/Projects/bodd-platform/src/ConsumerPortal/ConsumerPortal.Api/consumer-portal" value="true" />
+        <entry key="$USER_HOME$/Projects/bodd-platform/src/ConsumerPortal/consumer-portal-new" value="true" />
+        <entry key="$USER_HOME$/Projects/bodd-platform/src/Infra/Terraform" value="true" />
+        <entry key="$USER_HOME$/Projects/dev-fox-ui-mui-dashboard-theme" value="true" />
+        <entry key="$USER_HOME$/Projects/dotfiles" value="true" />
+        <entry key="$USER_HOME$/Projects/old" value="true" />
+        <entry key="$USER_HOME$/Projects/old/.idea/.idea.BoddPlatform" value="true" />
+        <entry key="$USER_HOME$/Projects/react-gauge-component" value="true" />
+        <entry key="$USER_HOME$/Projects/terraform-aws-eks" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

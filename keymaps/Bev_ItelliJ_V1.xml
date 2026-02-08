@@ -1,0 +1,27 @@
+<keymap version="1" name="Bev_ItelliJ_V1" parent="Mac OS X 10.5+">
+  <action id="ActivateAugmentToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CopyReferencePopupGroup">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Macro.SaveAllMacro">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
+  <action id="Tool_External Tools_Ghostty">
+    <keyboard-shortcut first-keystroke="ctrl alt f12" />
+  </action>
+  <action id="Tool_External Tools_Open in Ghostty">
+    <keyboard-shortcut first-keystroke="ctrl alt f12" />
+  </action>
+</keymap>

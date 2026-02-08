@@ -1,0 +1,12 @@
+<application>
+  <component name="GlobalPluginStateForSidecar">
+    <option name="values">
+      <map>
+        <entry key="sidecar.agent.augment/clients/sidecar/chat-mode" value="&quot;CHAT&quot;" />
+        <entry key="sidecar.agent.hasEverUsedAgent" value="true" />
+        <entry key="sidecar.agent.memorySettings" value="{&quot;enabled&quot;:true}" />
+        <entry key="sidecar.agent.soundSettings" value="{&quot;enabled&quot;:false,&quot;volume&quot;:0.5}" />
+      </map>
+    </option>
+  </component>
+</application>
