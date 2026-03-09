@@ -1,7 +1,7 @@
 <application>
   <component name="ReworkedTerminalUsage"><![CDATA[{
   "feedbackNotificationShown": true,
-  "enterKeyPressedTimes": 1415
+  "enterKeyPressedTimes": 1453
 }]]></component>
   <component name="TerminalOptionsProvider">
     <option name="myCopyOnSelection" value="true" />
