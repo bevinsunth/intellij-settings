@@ -132,6 +132,12 @@
         <root url="file://$USER_HOME$/Documents/projects/pipeline/pipeline/.venv/lib/python3.11/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/Rider2025.3/python_stubs/-662729505" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/cffi" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/PyYAML" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/networkx" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/SQLAlchemy" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/python-dateutil" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
@@ -140,6 +146,12 @@
         <root url="file://$USER_HOME$/Documents/projects/pipeline/pipeline/.venv/lib/python3.11/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/Rider2025.3/python_stubs/-662729505" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/cffi" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/PyYAML" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/networkx" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/SQLAlchemy" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/python-dateutil" />
       </SOURCES>
     </library>
   </component>
