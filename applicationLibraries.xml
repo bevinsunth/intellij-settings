@@ -1,5 +1,22 @@
 <application>
   <component name="libraryTable">
+    <library name="/opt/homebrew/Caskroom/miniconda/base interpreter library">
+      <CLASSES>
+        <root url="file:///opt/homebrew/Caskroom/miniconda/base/lib/python3.13" />
+        <root url="file:///opt/homebrew/Caskroom/miniconda/base/lib/python3.13/lib-dynload" />
+        <root url="file:///opt/homebrew/Caskroom/miniconda/base/lib/python3.13/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/Rider2025.3/python_stubs/629965312" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///opt/homebrew/Caskroom/miniconda/base/lib/python3.13" />
+        <root url="file:///opt/homebrew/Caskroom/miniconda/base/lib/python3.13/lib-dynload" />
+        <root url="file:///opt/homebrew/Caskroom/miniconda/base/lib/python3.13/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/Rider2025.3/python_stubs/629965312" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+      </SOURCES>
+    </library>
     <library name="/opt/homebrew/Caskroom/miniconda/base/envs/freemocap-env interpreter library">
       <CLASSES>
         <root url="file:///opt/homebrew/Caskroom/miniconda/base/envs/freemocap-env/lib/python3.11" />

@@ -201,5 +201,46 @@
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
     </jdk>
+    <jdk version="2">
+      <name value="/opt/homebrew/Caskroom/miniconda/base" />
+      <type value="Python SDK" />
+      <version value="Python 3.13.11" />
+      <homePath value="/opt/homebrew/Caskroom/miniconda/base/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/homebrew/Caskroom/miniconda/base/lib/python3.13" type="simple" />
+            <root url="file:///opt/homebrew/Caskroom/miniconda/base/lib/python3.13/lib-dynload" type="simple" />
+            <root url="file:///opt/homebrew/Caskroom/miniconda/base/lib/python3.13/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/Rider2025.3/python_stubs/629965312" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/tqdm" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/zstd" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/grpcio" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/psutil" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/PyYAML" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/boltons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/pexpect" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/networkx" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/protobuf" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/decorator" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/projects/pipeline" SDK_UUID="7576d293-5d6b-4529-892d-82debbf537bb">
+        <setting name="FLAVOR_ID" value="Conda" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;UnnamedEnv&quot;,&quot;data&quot;:{&quot;envPath&quot;:&quot;/opt/homebrew/Caskroom/miniconda/base&quot;,&quot;isBase&quot;:true,&quot;userReadableName&quot;:&quot;/opt/homebrew/Caskroom/miniconda/base&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;/opt/homebrew/Caskroom/miniconda/base/bin/conda&quot;}}" />
+      </additional>
+    </jdk>
   </component>
 </application>
