@@ -3,6 +3,9 @@
     <driver id="redis">
       <artifact id="Redis" name="Redis" use="true" version="1.5" />
     </driver>
+    <driver id="sqlite.xerial">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.51.1" />
+    </driver>
     <driver id="sqlserver.ms">
       <url-template name="Azure" template="jdbc:sqlserver://{host:ssrp_host:localhost}[\\{instance:ssrp_instance}][:{port:ssrp_port}][/{account:az_sqlserver_server}?][;&lt;;,user[Name]={user:param},password={password:param},database[Name]={database},{:identifier}={:param}&gt;];?" />
     </driver>
